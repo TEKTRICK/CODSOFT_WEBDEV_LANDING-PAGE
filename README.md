@@ -1,1 +1,1 @@
-# CODSOFT_WEBDEV_LANDING-PAGE
+This landing page project was crafted during my internship, showcasing my expertise in web development and design. Constructed using HTML and CSS, this page embodies an appealing and responsive design aimed at captivating users. It demonstrates my proficiency in creating visually engaging layouts and optimizing user experience.
